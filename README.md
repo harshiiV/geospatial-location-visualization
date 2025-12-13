@@ -21,4 +21,5 @@ HTML – map output
 
 ## 📸 Project Output
 
-![Geospatial Map Output](/screenshot.png)
+![Geospatial Map Output](/Screenshots.png)
+
