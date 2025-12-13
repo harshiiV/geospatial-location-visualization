@@ -6,22 +6,19 @@ It visualizes location-based data (latitude & longitude) on an interactive map u
 The project focuses on:
 
 1.Understanding GIS concepts
-
 2.Working with WGS84 coordinate system
-
 3.Visualizing vector point data
-
 4.Creating interactive web-based maps
 
 
 # Technologies Used
 
 Python
-
 Pandas – data handling
-
 Folium – interactive map visualization
-
 CSV – spatial data storage
-
 HTML – map output
+
+## 📸 Project Output
+
+![Geospatial Map Output](/screenshot.png)
